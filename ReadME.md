@@ -39,7 +39,7 @@
   <li>git clone -> <a href="https://github.com/zuizzms/Web-Development-Microchallenge">https://github.com/zuizzms/Web-Development-Microchallenge</a></li>
   <li>Open up VSCode</li>
   <li>Open up a terminal by pressing Ctrl-T and type "cd Web-Development-Microchallenge"</li>
-  <li>Use the template files and get to work. You are given a 4 files: index.html, home.html, about.html & contact.html. You may use the given files to use as a template for the contact file. Read through the code to see how it all works. </li>
+  <li>Use the template files and get to work. You are given a 4 files: index.html, home.html, about.html & contact.html. You may use the given files to use as a template for the contact file. Read through the code to see how it all works. THERE IS ONE CATCH: THIS IS A BUGGED VERSION OF THE MICROCHALLENGE. TRY TO SEE IF YOU CAN FIND THE BUGS AND FIX IT!</li>
   
 </ol>
 
